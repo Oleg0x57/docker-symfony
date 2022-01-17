@@ -1,0 +1,4 @@
+/app/
+.env
+/docker/postgres/
+/docker/redis/
